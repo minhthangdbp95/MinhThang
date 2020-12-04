@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <address>Điện Biên</address>
+        <age>22</age>
+        <gpa>8.1</gpa>
+        <id>2</id>
+        <name>Hạnh</name>
+    </student>
+    <student>
+        <address>Hà Nội</address>
+        <age>22</age>
+        <gpa>8.1</gpa>
+        <id>3</id>
+        <name>Tùng</name>
+    </student>
+</students>
